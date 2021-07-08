@@ -3,11 +3,11 @@ An Augmented Reality application which compares the feature points of the given 
 
 Tech Stack Used,  
  Unity 3D for making 3D models .
- Vuforia framework for AR dependencies .
+ Vuforia framework for AR dependencies . \n
  C# for writing scripts and to design working of the application.
 
 Steps to use this application :
-1. donwload the apk file provided in the repo and the image.
+1. Donwload the apk file provided in the repo and the image.
 2. Print the image and target and target your camera on the image it will detect the image and you can try on the watches !
 
 
