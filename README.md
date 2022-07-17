@@ -3,7 +3,7 @@ An Augmented Reality application which compares the feature points of the given 
 
 Tech Stack Used,  
  Unity 3D for making 3D models .
- Vuforia framework for AR dependencies . \n
+ Vuforia framework for AR dependencies . 
  C# for writing scripts and to design working of the application.
 
 Steps to use this application :
